@@ -19,13 +19,11 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cjava%2Cpython%2Candroid%2Ckali%2Cgit%2Cgithub%2Cidea%2Clinux&theme=dark&perline=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cjava%2Cpython%2Candroid%2Ckali%2Cgit%2Cgithub%2Cidea%2Clinux&theme=light&perline=6">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,android,kali,git,github,idea,linux&theme=light&perline=6" alt="My Skills" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,webstorm,clion,rider&theme=dark&perline=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,webstorm,clion,rider&theme=light&perline=7">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,webstorm,clion,rider&theme=light&perline=7" alt="My Skills" />
   </picture>
 </p>
-
----
 
 ### 找到我
 
