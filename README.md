@@ -18,23 +18,11 @@
 ### 技能树
 
 <p align="center">
-  <!-- 原版 skillicons.dev：技术栈 + tryhackme/sentinel/scout -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,pycharm,webstorm,phpstorm,clion,rider,tryhackme,sentinel,scout&theme=dark&perline=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,pycharm,webstorm,phpstorm,clion,rider,tryhackme,sentinel,scout&theme=light&perline=8">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,pycharm,webstorm,phpstorm,clion,rider,tryhackme,sentinel,scout&theme=light&perline=8" alt="My Skills" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,webstorm,clion,rider&theme=dark&perline=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,webstorm,clion,rider&theme=light&perline=8">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,webstorm,clion,rider&theme=light&perline=8" alt="My Skills" />
   </picture>
-
-  <!-- 扩展版补上 kali -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali&theme=light&perline=8" alt="Kali" />
-</p>
-
-<!-- 网安工具徽章（shields.io） -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
 </p>
 
 ### 找到我
