@@ -18,11 +18,7 @@
 ### 技能树
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,clion,rider&theme=dark&perline=7">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,clion,rider&theme=light&perline=7">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,clion,rider&theme=light&perline=7" alt="My Skills" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,clion,rider&perline=7" alt="My Skills" />
 </p>
 
 ### 找到我
