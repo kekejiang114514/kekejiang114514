@@ -17,9 +17,11 @@
 
 ### 技能树
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,java,python,androidstudio,kali,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,phpstorm,pycharm,webstorm,clion,rider,datagrip&perline=7" alt="My Skills" />
-</p>
+<!-- 原版 skillicons.dev 的图标（不含 kali） -->
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,git,github,linux,debian,docker,nodejs,powershell,cpp,nginx,npm,idea,pycharm,webstorm,phpstorm,clion,rider&theme=light&perline=7" alt="Skills Part 1" />
+
+<!-- 扩展版 go-skill-icons 单独放 kali（和任何原版没有的图标） -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kali&theme=light&perline=7" alt="Skills Part 2" />
 
 ### 找到我
 
