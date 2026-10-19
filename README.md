@@ -1,5 +1,4 @@
 <h1 align="center">欢迎来到我的的主页！</h1>
-### 下面是我的自我介绍
 <p align="center">
   <em>全栈开发 / Minecraft 服务端插件开发 / 跨性别者</em>
 </p>
