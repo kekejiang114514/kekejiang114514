@@ -11,8 +11,8 @@
 生产日期2012/2/4，一名全栈开发者。  
 Birthday: 2012/2/4. I am a full-stack developer.
 
-平时主要写研究技术，也做 Minecraft 服务端插件开发，Copfire服务器腐竹（服务器已逝）  
-I usually write and research technology, and I also develop Minecraft server plugins. I was the server owner ("腐竹", fúzhú) of Copfire (now defunct).
+平时主要写研究技术，也做 Minecraft 服务端插件开发，Copfire Network服务器腐竹（服务器已逝）  
+I usually write and research technology, and I also develop Minecraft server plugins. I was the server owner of Copfire Network(now defunct).
 
 我是一名介于 MTF 和 MTX 之间的跨性别者，正在努力成为更好的自己，也在继续学习和探索更多技术。  
 I am a transgender person somewhere between MTF and MTX, working hard to become a better version of myself while continuing to learn and explore more technologies.
